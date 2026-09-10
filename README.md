@@ -18,3 +18,11 @@
   - 
 
 Researching privacy-preserving computation and onchain systems, with a foc
+
+
+## Hyperliquid / HyperEVM
+
+- Defensive SDK notes: signatures, nonces, retries and reconciliation
+- - HyperEVM sync notes: replay, snapshots, integrity and precompiles
+ 
+  - Repositories: HereForTheTechNFT/hyperliquid-python-sdk and hyper-evm-sync.
