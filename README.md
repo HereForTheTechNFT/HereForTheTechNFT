@@ -1,16 +1,20 @@
-## Hi there 👋
+# Here For The Techus on ZK proofs, Base, FHE and digital ownership.- FHE: encrypted execution, ACL, coprocessor and KMS- FHEVM: github.com/HereForTheTechNFT/fhevm/tree/main/docs/fr
+- Base: github.com/HereForTheTechNFT/base-std/tree/main/docs/fr
 
-<!--
-**HereForTheTechNFT/HereForTheTechNFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Documentation-first contributions, grounded in source code.
+- No audit or production-readiness claim is implied.
+- Base: precompiles, L1 context, Superchain and P256
 
-Here are some ideas to get you started:
+- ## Featured research notes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - Plonky2: github.com/HereForTheTechNFT/plonky2/tree/main/docs/fr
+  - - Groth16: github.com/HereForTheTechNFT/groth16/tree/master/docs/fr
+    - 
+
+## Current technical work
+
+- STARK / FRI: Plonky2 pipeline and recursion
+- - SNARK: Groth16 setup, proving and verification
+  - 
+
+Researching privacy-preserving computation and onchain systems, with a foc
