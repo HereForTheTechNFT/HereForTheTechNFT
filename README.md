@@ -1,28 +1,35 @@
-# Here For The Techus on ZK proofs, Base, FHE and digital ownership.- FHE: encrypted execution, ACL, coprocessor and KMS- FHEVM: github.com/HereForTheTechNFT/fhevm/tree/main/docs/fr
-- Base: github.com/HereForTheTechNFT/base-std/tree/main/docs/fr
+# Here For The Tech
 
-- Documentation-first contributions, grounded in source code.
-- No audit or production-readiness claim is implied.
-- Base: precompiles, L1 context, Superchain and P256
+### Digital ownership, zero-knowledge systems and secure onchain infrastructure
 
-- ## Featured research notes
+I research blockchain protocols through source-grounded technical notes. My work connects NFT infrastructure with ZK proofs, confidential execution, Base and HyperEVM.
 
-- - Plonky2: github.com/HereForTheTechNFT/plonky2/tree/main/docs/fr
-  - - Groth16: github.com/HereForTheTechNFT/groth16/tree/master/docs/fr
-    - 
+## Featured work
 
-## Current technical work
+| Area | Repository | Focus |
+| --- | --- | --- |
+| HyperEVM | [hyperevm-tools](https://github.com/HereForTheTechNFT/hyperevm-tools/tree/main/docs/fr) | L1Read, CoreWriter, cross-DEX transfers, supply synchronization and defensive invariants |
+| Hyperliquid | [hyperliquid-python-sdk](https://github.com/HereForTheTechNFT/hyperliquid-python-sdk/tree/master/docs/fr) | Signatures, nonces, partial failures, retries and reconciliation |
+| HyperEVM data | [hyper-evm-sync](https://github.com/HereForTheTechNFT/hyper-evm-sync/tree/main/docs/fr) | Replay, snapshots, continuity checks and precompile context |
+| Base | [base-std](https://github.com/HereForTheTechNFT/base-std/tree/main/docs/fr) | L1 context, Superchain identity, P256 passkeys and NFT anti-replay rules |
+| STARK | [Plonky2](https://github.com/HereForTheTechNFT/plonky2/tree/main/docs/fr) | Goldilocks field, FRI, constraints and recursion |
+| SNARK | [Groth16](https://github.com/HereForTheTechNFT/groth16/tree/master/docs/fr) | R1CS, parameters, proving keys, public inputs and pairings |
+| FHE | [FHEVM](https://github.com/HereForTheTechNFT/fhevm/tree/main/docs/fr) | Encrypted handles, ACL, coprocessor, KMS and gateway trust boundaries |
 
-- STARK / FRI: Plonky2 pipeline and recursion
-- - SNARK: Groth16 setup, proving and verification
-  - 
+## NFT and digital ownership
 
-Researching privacy-preserving computation and onchain systems, with a foc
+- [Zora Protocol](https://github.com/HereForTheTechNFT/zora-protocol) — NFT protocol architecture.
+- [Nouns DAO](https://github.com/HereForTheTechNFT/nouns-monorepo) — auctions, treasury and governance.
+- [Rarible Protocol](https://github.com/HereForTheTechNFT/protocol-contracts) — marketplace contracts and exchange flows.
+- [Lens Protocol](https://github.com/HereForTheTechNFT/core) — onchain social ownership.
 
+## Current contribution focus
 
-## Hyperliquid / HyperEVM
+- Safe interactions between HyperEVM contracts and HyperCore state.
+- Passkey authorization and replay resistance for NFT applications on Base.
+- Clear separation between cryptographic guarantees, operational assumptions and application policy.
+- Reproducible French-language documentation linked to verifiable source mechanisms.
 
-- Defensive SDK notes: signatures, nonces, retries and reconciliation
-- - HyperEVM sync notes: replay, snapshots, integrity and precompiles
- 
-  - Repositories: HereForTheTechNFT/hyperliquid-python-sdk and hyper-evm-sync.
+## Method
+
+I read the source, isolate one mechanism per chapter and make trust assumptions and failure modes explicit. These repositories contain documentary analyses: they are not security audits, endorsements or claims of production readiness. No test result is claimed when no test was executed.
