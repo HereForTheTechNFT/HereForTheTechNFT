@@ -6,7 +6,7 @@ I research blockchain protocols through source-grounded technical notes. My work
 
 ## Parcours français
 
-Le [parcours français](docs/fr/README.md) présente 62 notes courtes, chacune consacrée à un mécanisme identifiable dans les sources ou les prototypes de ce dépôt. Il distingue les garanties cryptographiques, les hypothèses opérationnelles et les limites documentaires.
+Le [parcours français](docs/fr/README.md) présente 73 notes courtes, chacune consacrée à un mécanisme identifiable dans les sources ou les prototypes de ce dépôt. Il distingue les garanties cryptographiques, les hypothèses opérationnelles et les limites documentaires.
 
 ## Featured work
 
