@@ -37,3 +37,9 @@ Le [parcours français](docs/fr/README.md) présente 73 notes courtes, chacune c
 ## Method
 
 I read the source, isolate one mechanism per chapter and make trust assumptions and failure modes explicit. These repositories contain documentary analyses: they are not security audits, endorsements or claims of production readiness. No test result is claimed when no test was executed.
+
+
+## Upstream contributions
+
+- [x402 #3521](https://github.com/x402-foundation/x402/pull/3521) — validates CAIP-2 EVM network identifiers before resolving a chain ID. Merged upstream.
+- [zk-email-verify #323](https://github.com/zkemail/zk-email-verify/pull/323) — generalizes the Rust verifier CLI to variable-length public inputs while preserving compact serialization. Under upstream review.
